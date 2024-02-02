@@ -1,0 +1,1 @@
+ 20240203-002416,[command] python run_expid.py --config ./config/ --expid LR_test --gpu -1,[exp_id] LR_test,[dataset_id] tiny_h5,[train] N.A.,[val] logloss: 0.686103 - AUC: 0.994792,[test] logloss: 0.686103 - AUC: 0.994792
